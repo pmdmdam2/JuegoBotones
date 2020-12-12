@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Captura el verde!</string>
+    <string name="empezar">Empezar</string>
+    <string name="pulsa_empezar">Pulsa para empezar</string>
+    <string name="captura_verde">Capturados</string>
+    <string name="conseguido">Lo has conseguido!</string>
+    <string name="velocidad">Velocidad</string>
+    <string name="baja">Baja</string>
+    <string name="media">Media</string>
+    <string name="alta">Alta</string>
+    <string name="tres_verdes">¡Captura 3 rectángulos verde!</string>
+</resources>

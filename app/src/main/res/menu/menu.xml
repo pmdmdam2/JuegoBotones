@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/imMain"
+        android:icon="?attr/actionModeSelectAllDrawable"
+        android:title="@string/velocidad">
+        <menu>
+            <item
+                android:id="@+id/imBaja"
+                android:title="@string/baja" />
+            <item
+                android:id="@+id/imMedia"
+                android:title="@string/media" />
+            <item
+                android:id="@+id/imAlta"
+                android:title="@string/alta" />
+        </menu>
+    </item>
+</menu>
