@@ -12,7 +12,7 @@ La multimedia y animación que se incluye es:
 
 - La estructura del proyecto Android es la siguiente:
 
-![Captura del diseño de la interfaz](https://raw.githubusercontent.com/pmdmdam2/JuegoBotones/master/app/src/main/assets/esquema_proyecto.png)
+![Captura del diseño de la interfaz](https://raw.githubusercontent.com/pmdmdam2/JuegoBotones/master/app/src/main/assets/esquema.png)
 
 - Interfaz gráfica de la actividad principal, vista de diseño
 
